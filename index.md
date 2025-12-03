@@ -1,6 +1,8 @@
 ## About Me
 
-I'm an AI/ML Engineer passionate about building intelligent systems that solve real-world problems. My work spans deep learning, predictive modeling, and natural language processing, with a focus on creating practical solutions in healthcare, energy, and emerging AI technologies.
+AI/ML Engineer with a strong foundation in data analytics and software engineering. Currently pursuing my Master's in Advanced Data Analytics at the University of North Texas. Previously worked as an Associate Engineer at L&T, where I developed expertise in building data-driven solutions.
+
+I'm passionate about applying machine learning and deep learning to solve real-world problems in healthcare, energy, and emerging AI technologies.
 
 ---
 
@@ -9,7 +11,7 @@ I'm an AI/ML Engineer passionate about building intelligent systems that solve r
 ### 🔋 Cooling System Performance Prediction
 **Deep Learning for Power Plants**
 
-Built predictive models using CNN and RNN architectures to forecast cooling system performance in power plants. This project demonstrates the application of deep learning for industrial optimization and predictive maintenance.
+Built predictive models using CNN and RNN architectures to forecast cooling system performance in power plants. Applied deep learning for industrial optimization and predictive maintenance.
 
 **Tech:** Python, TensorFlow, Keras, CNN, RNN, Time Series Analysis
 
@@ -20,7 +22,7 @@ Built predictive models using CNN and RNN architectures to forecast cooling syst
 ### 🍎 Personalized Diet Recommendation System
 **ML for Healthcare**
 
-Developed a machine learning system that provides customized diet suggestions based on user health profiles. The project applies predictive learning approaches to deliver personalized nutritional recommendations in medicinal services.
+Developed a machine learning system that provides customized diet suggestions based on user health profiles, applying predictive learning approaches for personalized nutritional recommendations.
 
 **Tech:** Python, scikit-learn, Pandas, Machine Learning, Classification
 
@@ -31,7 +33,7 @@ Developed a machine learning system that provides customized diet suggestions ba
 ### 🤖 Local LLM Crash Course
 **Large Language Models**
 
-Hands-on exploration of running and fine-tuning Large Language Models locally. Covers practical implementation of LLMs for various NLP tasks.
+Hands-on exploration of running and fine-tuning Large Language Models locally for various NLP tasks.
 
 **Tech:** Python, LLMs, NLP, Transformers
 
@@ -49,11 +51,18 @@ Hands-on exploration of running and fine-tuning Large Language Models locally. C
 
 **NLP:** LLMs, Hugging Face, Text Classification, Sentiment Analysis
 
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+**Data & Visualization:** Pandas, NumPy, Power BI, DAX, Matplotlib, Seaborn
 
-**Tools:** Jupyter, Git, Docker, AWS, Google Colab
+**Tools:** Jupyter, Git, Docker, Google Colab, Dynamics 365
 
 **Databases:** MySQL, PostgreSQL, MongoDB
+
+---
+
+## Education
+
+🎓 **MS in Advanced Data Analytics**  
+University of North Texas | Currently Pursuing
 
 ---
 
@@ -61,7 +70,7 @@ Hands-on exploration of running and fine-tuning Large Language Models locally. C
 
 📧 [shaikshabana2022@gmail.com](mailto:shaikshabana2022@gmail.com)
 
-🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+🔗 [LinkedIn](https://linkedin.com/in/shaikshabana2022)
 
 💻 [GitHub](https://github.com/shabanshaik)
 
